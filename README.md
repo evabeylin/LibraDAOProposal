@@ -1,5 +1,5 @@
 # Ethereum’s LibraDAO
-## A proposal for Ethereum's membership in the Libra Association - DRAFT
+## A draft proposal for Ethereum's membership in the Libra Association
 
 
 ### Table of Contents
